@@ -9,6 +9,7 @@ pandas = "*"
 scipy = "*"
 jupyterlab = "*"
 matplotlib = "*"
+jupyterthemes = "*"
 
 [dev-packages]
 

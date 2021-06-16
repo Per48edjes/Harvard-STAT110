@@ -6,8 +6,14 @@ This repo houses my self-study artifacts from Harvard's [STAT 110](https://proje
 
 ## Schedule
 
-The original intent was to complete the entirety of the course in 2020, which was a goal that was not wholly realized (but I'll count 8 of 11 PSETs as a "W"!). 
+The original intent was to complete the entirety of the course in 2020, which was a goal that was not wholly realized (but I'll count 8 of 11 PSETs as a "W"!).
+
+### Summer 2021 Update 
+
+I renewed my focus on this work after quitting my job, having found a new one, and getting tired of being in a depressive rut 🥲. It took me some time to get back into the swing of things, but I finished the 9th PSET in June 2021.
+
+The new goal is to finish the remaining 2 PSETs by August and the course (including final exam \[prep / review\]) by September.
 
 See [here](https://www.notion.so/rdayabhai/a4d2479de42246208f15052fcc769f82?v=0311b0815fc04ee9ac8e284428ff16bc) for the Notion board with associated completion dates, commentary, and status updates.
 
-_Updated: December 19, 2020_
+_Updated: June 16, 2021_

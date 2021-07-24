@@ -10,10 +10,13 @@ The original intent was to complete the entirety of the course in 2020, which wa
 
 ### Summer 2021 Update 
 
-I renewed my focus on this work after quitting my job, having found a new one, and getting tired of being in a depressive rut 🥲. It took me some time to get back into the swing of things, but I finished the 9th and 10th PSETs in June 2021.
+I renewed my focus on this work after quitting my job, having found a new one, and getting tired of being in a depressive rut 🥲. It took me some time to get back into the swing of things, but I finished the 9th and 10th PSETs in June 2021 and the last PSET in July 2021.
 
-The new goal is to finish the remaining PSET by August and the course (including final exam \[prep / review\]) by September.
+Two remaining tasks remain:
+
+- [ ] Review (and compile summary notes) for Final
+- [ ] Take practice Finals and Final 
 
 See [here](https://www.notion.so/rdayabhai/a4d2479de42246208f15052fcc769f82?v=0311b0815fc04ee9ac8e284428ff16bc) for the Notion board with associated completion dates, commentary, and status updates.
 
-_Updated: June 16, 2021_
+_Updated: 2021-07-24_
